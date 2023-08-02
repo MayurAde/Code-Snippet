@@ -2,12 +2,12 @@
     height: 100px;
     width:300px;
     /* background-color: red; */
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     color: #a1dbea;
+    /* border: 1px solid red; */
+    padding: 15px;
+    /* animation: blink 0.8s step-end infinite; */
 }
 
-.preserve_whitespace {
-    white-space: pre;
-  }

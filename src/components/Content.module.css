@@ -3,6 +3,6 @@
     height: 100%;
     font-family: 'Courier New', Courier, monospace;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center; */
+    /* align-items: center; */
 }
