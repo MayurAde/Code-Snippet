@@ -1,0 +1,11 @@
+.window{
+    /* background-color: red; */
+    height: 300px;
+    width: 500px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 12px 14px rgba(84, 80, 80, 0.619);
+    /* display: flex;
+    flex-direction: column; */
+    
+}

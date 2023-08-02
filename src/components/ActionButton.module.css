@@ -1,0 +1,21 @@
+
+.action{
+    
+    height: 20px;
+    width: 20px;
+    margin-left: 25px ;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.close{
+    background-color: #ff5f57;
+}
+
+.minimize{
+    background-color: #28c840;
+}
+
+.zoom{
+    background-color: #28c840;
+}

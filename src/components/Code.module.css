@@ -1,0 +1,13 @@
+.code{
+    height: 100px;
+    width:300px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #a1dbea;
+}
+
+.preserve_whitespace {
+    white-space: pre;
+  }
